@@ -7,3 +7,4 @@ Git track a change of file.
 My stupid boss still prefers SVN.
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
+Merge dev and master with "--no-ff".
